@@ -1,0 +1,29 @@
+Alice;Andersson;000000000;alice@gmail.com;Storgatan 1;
+Bob;Bergström;kara;bob.bergstrom@email.com;Lillgatan 5;
+Clara;Carlsson;555123789;clara.carlsson@email.com;Parkvägen 22;
+David;Dahl;111222333;david.dahl@email.com;Gränden 7
+Emma;Engström;kara;emma.engstrom@email.com;Esplanaden 12
+Felix;Fransson;777888999;felix.fransson@email.com; Bergsgatan 3
+Gabriella;Gustavsson;222333444;gabriella.gustavsson@email.com; Strandvägen 9
+Hugo;Holm;666777888;hugo.holm@email.com; Skogsvägen 17
+Ida;Isaksson;333444555;ida.isaksson@email.com; Havsvägen 8
+Johan;Johansson;999888777;johan.johansson@email.com; Ängsvägen 14
+Klara;Karlsson;777999555;klara.karlsson@email.com; Nygatan 20
+Ludvig;Larsson;444666333;ludvig.larsson@email.com; Backstigen 6
+Maria;Månsson;111555999;maria.mansson@email.com; Allégatan 4
+Niklas;Nyqvist;222444666;niklas.nyqvist@email.com; Skolvägen 11
+Olivia;Olofsson;888333777;olivia.olofsson@email.com; Parkgatan 15
+Pontus;Persson;555666888;pontus.persson@email.com; Stigen 2
+Qvintus;Qvarnström;555666866;qvintus.qvarnstrom@email.com; Nybygget 18
+Rosa;Rönnquist;999555222;rosa.ronnquist@email.com; Gårdsvägen 13
+Simon;Sjöberg;333888222;simon.sjoberg@email.com; Fjällvägen 10
+Tilda;Thorsén;666222444;tilda.thorsen@email.com; Berggången 5
+Ulf;Ulvestam;444111555;ulf.ulvestam@email.com; Trädgårdsvägen 19
+Victoria;Viklund;777222555;victoria.viklund@email.com; Strandpromenaden 16
+Xander;Xenon;222222222;xander.xenon@email.com; Långgatan 23
+Ylva;Ytterström;kara;ylva.ytterstrom@email.com; Nyvägen 25
+Zara;Zetterberg;888222555;zara.zetterberg@email.com; Kyrkvägen 30
+Åke;Åkesson;333666999;ake.akesson@email.com; Fiskestigen 27
+Ärlig;Ärlingsson;666999333;arlig.arlingsson@email.com; Ängsvägen 24
+Örjan;Öberg;999333666;rjan.oberg@email.com; Prästgatan 29
+Ölga;Östlund;111444888;olga.ostlund@email.com; Björkvägen 26
